@@ -40,6 +40,8 @@ Source group1:
 Startuplpc17xx.s, main.c (t), delay.c (t), systemlpc17xx.c (t), gpio.c (t)
 Header:
 Delay.h, stdutils.h, gpioi.h
+# PIN DIAGRAM:
+<img width="767" height="416" alt="image" src="https://github.com/user-attachments/assets/1afc7473-7913-488b-a649-7b4a6a9db4cc" />
 
 # CIRCUIT DIAGRAM:
 <img width="1156" height="482" alt="image" src="https://github.com/user-attachments/assets/ec4274e3-938a-4ac1-b3ee-9c642c5a71ae" />
